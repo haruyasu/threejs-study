@@ -15,14 +15,9 @@ body
 {
     width: 100%;
     height: 500px;
-}
-
-#ui>div {
-  /* font-size: 20pt; */
-  margin-right: 1em;
-  display: inline-block;
-}
-#ui>div.selected {
-  color: red;
-  cursor: pointer;
+    display: block;
+    /* position: fixed;
+    top: 0;
+    left: 0;
+    outline: none; */
 }
