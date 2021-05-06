@@ -9,12 +9,14 @@ body
 {
     height: 100vh;
     font-family: 'Poppins';
+    background-color: #040E23;
+    color: white;
 }
 
 .webgl
 {
     width: 100%;
-    height: 500px;
+    height: 700px;
 }
 
 #ui>div {

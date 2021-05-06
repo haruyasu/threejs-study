@@ -55,7 +55,7 @@ function main() {
   controls.update()
 
   const scene = new THREE.Scene()
-  scene.background = new THREE.Color('white')
+  scene.background = new THREE.Color('#040E23')
 
   const loader = new THREE.TextureLoader()
   const texture = loader.load('/texures/world.jpg', render)
